@@ -1,0 +1,20 @@
+﻿ManageStaffDBApp
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Учёба\2 курс\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\
+ManageStaffDBApp
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+D:\Учёба\2 курс\Курсовой проект\ManageStaffDBApp\App.xaml
+8-1961408544
+
+23288821729
+213-411030227
+View\AddNewDepartmentWindow.xaml;View\AddNewPositionWindow.xaml;View\AddNewUserWindow.xaml;View\EditDepartmentWindow.xaml;View\EditPositionWindow.xaml;View\EditUserWindow.xaml;View\MainWindow.xaml;View\MessageView.xaml;
+
+False
+

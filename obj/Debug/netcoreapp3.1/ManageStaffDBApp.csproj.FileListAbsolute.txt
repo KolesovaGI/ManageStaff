@@ -1,0 +1,302 @@
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\ManageStaffDBApp.exe
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\ManageStaffDBApp.deps.json
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\ManageStaffDBApp.runtimeconfig.json
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\ManageStaffDBApp.runtimeconfig.dev.json
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\ManageStaffDBApp.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\ManageStaffDBApp.pdb
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Windows_ManageStaffDBApp-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csprojAssemblyReference.cache
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\AddNewDepartmentWindow.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\AddNewPositionWindow.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\AddNewUserWindow.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\EditDepartmentWindow.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\EditPositionWindow.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\EditUserWindow.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\MessageView.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp_MarkupCompile.cache
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp_MarkupCompile.lref
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\AddNewDepartmentWindow.baml
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\AddNewPositionWindow.baml
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\AddNewUserWindow.baml
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\EditDepartmentWindow.baml
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\EditPositionWindow.baml
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\EditUserWindow.baml
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\View\MessageView.baml
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.g.resources
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.AssemblyInfoInputs.cache
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.AssemblyInfo.cs
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.CoreCompileInputs.cache
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.CopyComplete
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.dll
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.pdb
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.genruntimeconfig.cache
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.Properties.Resources.resources
+E:\Windows_ManageStaffDBApp-master\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.GenerateResource.cache
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.exe
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.deps.json
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.runtimeconfig.json
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.runtimeconfig.dev.json
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.pdb
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewDepartmentWindow.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewPositionWindow.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewUserWindow.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditDepartmentWindow.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditPositionWindow.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditUserWindow.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MessageView.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\App.g.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp_MarkupCompile.cache
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp_MarkupCompile.lref
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewDepartmentWindow.baml
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewPositionWindow.baml
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewUserWindow.baml
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditDepartmentWindow.baml
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditPositionWindow.baml
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditUserWindow.baml
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MessageView.baml
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.g.resources
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.Properties.Resources.resources
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.GenerateResource.cache
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.AssemblyInfoInputs.cache
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.AssemblyInfo.cs
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.CoreCompileInputs.cache
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.CopyComplete
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.dll
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.pdb
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.genruntimeconfig.cache
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.AssemblyReference.cache
+E:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.exe
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.deps.json
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.runtimeconfig.json
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.runtimeconfig.dev.json
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.pdb
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.AssemblyReference.cache
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewDepartmentWindow.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewPositionWindow.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewUserWindow.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditDepartmentWindow.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditPositionWindow.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditUserWindow.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MessageView.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp_MarkupCompile.cache
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp_MarkupCompile.lref
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewDepartmentWindow.baml
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewPositionWindow.baml
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewUserWindow.baml
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditDepartmentWindow.baml
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditPositionWindow.baml
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditUserWindow.baml
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MessageView.baml
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.g.resources
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.Properties.Resources.resources
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.GenerateResource.cache
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.AssemblyInfoInputs.cache
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.AssemblyInfo.cs
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.CoreCompileInputs.cache
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.CopyComplete
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.dll
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.pdb
+D:\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.genruntimeconfig.cache
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.exe
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.deps.json
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.runtimeconfig.json
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.runtimeconfig.dev.json
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\ManageStaffDBApp.pdb
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Курсовой проект\ManageStaffDBApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.AssemblyReference.cache
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewDepartmentWindow.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewPositionWindow.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewUserWindow.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditDepartmentWindow.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditPositionWindow.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditUserWindow.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MessageView.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp_MarkupCompile.cache
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp_MarkupCompile.lref
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewDepartmentWindow.baml
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewPositionWindow.baml
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\AddNewUserWindow.baml
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditDepartmentWindow.baml
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditPositionWindow.baml
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\EditUserWindow.baml
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\View\MessageView.baml
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.g.resources
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.Properties.Resources.resources
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.GenerateResource.cache
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.AssemblyInfoInputs.cache
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.AssemblyInfo.cs
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.CoreCompileInputs.cache
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.csproj.CopyComplete
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.dll
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.pdb
+E:\Курсовой проект\ManageStaffDBApp\obj\Debug\netcoreapp3.1\ManageStaffDBApp.genruntimeconfig.cache

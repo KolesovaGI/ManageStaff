@@ -1,0 +1,36 @@
+﻿<Window x:Class="ManageStaffDBApp.View.EditPositionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManageStaffDBApp.View"
+        mc:Ignorable="d"
+        Title="Изменить должность" Height="300" Width="300"
+        Name="EditPositionWnd" Icon="/View/logo.png" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Vertical"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Width="200">
+            <TextBlock Text="НОВОЕ НАЗВАНИЕ" FontWeight="Bold" Foreground="Gray"/>
+            <TextBox Text="{Binding PositionName}"/>
+            <TextBlock Text="НОВАЯ ЗАРПЛАТА" FontWeight="Bold" Foreground="Gray"/>
+            <TextBox Text="{Binding PositionSalary}" PreviewTextInput="PreviewTextInput"/>
+            <TextBlock Text="МАКСИМУМ ВАКАНСИЙ" FontWeight="Bold" Foreground="Gray"/>
+            <TextBox Text="{Binding PositionMaxNumber}" PreviewTextInput="PreviewTextInput"/>
+            <TextBlock Text="НОВЫЙ ОТДЕЛ" FontWeight="Bold" Foreground="Gray"/>
+            <ComboBox ItemsSource="{Binding AllDepartments}"
+                      DisplayMemberPath="Name"
+                      SelectedItem="{Binding PositionDepartment}"/>
+        </StackPanel>
+        <Button Grid.Row="1" Content="СОХРАНИТЬ"
+                Command="{Binding EditPosition}"
+                CommandParameter="{Binding ElementName=EditPositionWnd}"
+                FontWeight="Bold" FontSize="15" Foreground="#B39EB5" 
+                Background="{x:Null}" BorderBrush="{x:Null}"/>
+    </Grid>
+</Window>
